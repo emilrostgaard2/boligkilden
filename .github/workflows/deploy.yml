@@ -23,7 +23,7 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: ${{ secrets.FTP_DIR }}
+          server-dir: public_html/
           protocol: ftps
           exclude: |
             **/.git*
@@ -31,3 +31,4 @@ jobs:
             .github/**
             README.md
             README-DEPLOY.md
+            **/*.zip
