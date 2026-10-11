@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="bo" viewBox="0 0 120 150" role="img" aria-label="Bo, Boligkildens husmaskot"><title>Bo, Boligkildens husmaskot</title>
+<circle class="smoke" cx="86" cy="14" r="5" fill="#C9D9CF"/><circle class="smoke s2" cx="90" cy="12" r="4" fill="#C9D9CF"/><circle class="smoke s3" cx="84" cy="10" r="3.5" fill="#C9D9CF"/>
+<g class="body"><rect x="78" y="22" width="13" height="24" rx="2" fill="#17302B"/>
+<path d="M8 64 60 18l52 46" fill="#17302B" stroke="#17302B" stroke-width="8" stroke-linejoin="round"/>
+<rect x="18" y="56" width="84" height="74" rx="14" fill="#E2A33B"/><path d="M18 70h84" stroke="#C88A22" stroke-width="2" opacity=".35"/>
+<g class="eye"><ellipse cx="45" cy="84" rx="9" ry="10" fill="#fff"/><circle cx="47" cy="86" r="4.6" fill="#17302B"/><circle cx="48.5" cy="84" r="1.5" fill="#fff"/></g>
+<g class="eye"><ellipse cx="75" cy="84" rx="9" ry="10" fill="#fff"/><circle cx="77" cy="86" r="4.6" fill="#17302B"/><circle cx="78.5" cy="84" r="1.5" fill="#fff"/></g>
+<ellipse cx="34" cy="99" rx="5" ry="3" fill="#D9774A" opacity=".55"/><ellipse cx="86" cy="99" rx="5" ry="3" fill="#D9774A" opacity=".55"/>
+<path d="M50 100q10 9 20 0" fill="none" stroke="#17302B" stroke-width="3.2" stroke-linecap="round"/>
+<rect x="50" y="110" width="20" height="20" rx="4" fill="#17302B"/><circle cx="65" cy="121" r="1.6" fill="#E2A33B"/>
+<path d="M19 98q-11 8-6 20" fill="none" stroke="#17302B" stroke-width="5" stroke-linecap="round"/>
+<g class="arm-r"><path d="M101 96q12-6 14-20" fill="none" stroke="#17302B" stroke-width="5" stroke-linecap="round"/><circle cx="115" cy="74" r="5" fill="#17302B"/></g>
+<rect x="34" y="128" width="16" height="9" rx="4.5" fill="#17302B"/><rect x="70" y="128" width="16" height="9" rx="4.5" fill="#17302B"/></g></svg>
